@@ -23,3 +23,5 @@ Microsoft Power BI
 DAX (Data Analysis Expressions)
 
 Power Query
+
+Here's the final result: Ecommerce_Sales.png
