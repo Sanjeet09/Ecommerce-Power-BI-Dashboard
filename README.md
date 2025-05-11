@@ -1,4 +1,4 @@
-📊 eCommerce Power BI Dashboard
+📊 #eCommerce Power BI Dashboard
 This Power BI dashboard provides comprehensive insights into an eCommerce business's performance. It visualizes key metrics such as sales trends, customer behavior, product performance, revenue analysis, and order distribution. The dashboard is designed to help stakeholders make data-driven decisions by offering both high-level summaries and detailed breakdowns.
 
 🔍 Key Features:
